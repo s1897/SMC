@@ -1,0 +1,66 @@
+[01:34:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:34:17] [ServerMain/INFO]: Loaded 7 recipes
+[01:34:17] [ServerMain/INFO]: Loaded 1272 advancements
+[01:34:19] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[01:34:19] [Server thread/INFO]: Loading properties
+[01:34:19] [Server thread/INFO]: Default game type: SURVIVAL
+[01:34:19] [Server thread/INFO]: Generating keypair
+[01:34:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:34:20] [Server thread/INFO]: Using epoll channel type
+[01:34:20] [Server thread/INFO]: Preparing level "world"
+[01:34:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:34:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:34:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:34:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:34:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:34:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:34:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:34:48] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[01:34:48] [Worker-Main-3/INFO]: Preparing spawn area: 13%
+[01:34:49] [Worker-Main-3/INFO]: Preparing spawn area: 24%
+[01:34:49] [Worker-Main-3/INFO]: Preparing spawn area: 41%
+[01:34:50] [Worker-Main-2/INFO]: Preparing spawn area: 55%
+[01:34:50] [Worker-Main-3/INFO]: Preparing spawn area: 76%
+[01:34:51] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[01:34:51] [Server thread/INFO]: Time elapsed: 22755 ms
+[01:34:51] [Server thread/INFO]: Done (30.670s)! For help, type "help"
+[01:34:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[01:55:44] [User Authenticator #1/INFO]: UUID of player Goldsee97 is 7cc5e617-cb59-4762-9895-8d26f2f6ed83
+[01:55:45] [Server thread/INFO]: Goldsee97[/84.227.96.203:56257] logged in with entity id 206 at (361.67463907993834, 74.0, 242.09370815412274)
+[01:55:45] [Server thread/INFO]: Goldsee97 joined the game
+[01:55:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[02:03:06] [Server thread/INFO]: Goldsee97 lost connection: Disconnected
+[02:03:06] [Server thread/INFO]: Goldsee97 left the game
